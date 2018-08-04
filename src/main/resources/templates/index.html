@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Homepage</title>
+</head>
+<body>
+<h1>Title</h1>
+<p>hello!</p>
+<p th:text="'The current time is: ' + ${currenttime}" />
+</body>
+<form action="/questions/" method="POST">
+    <label>Question: <input type="text" name="question" /></label>
+    <input type="submit">
+</form>
+
+<table border="1">
+    <tr>
+        <th>Question</th>
+    </tr>
+    <tr th:each="question : ${question}">
+        <td th:text="${question.question}"></td>
+    </tr>
+</table>
+
+</html>
