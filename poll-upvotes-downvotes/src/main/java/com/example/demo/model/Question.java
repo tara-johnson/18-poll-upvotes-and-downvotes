@@ -15,7 +15,10 @@ public class Question {
     public long id;
     public String question;
 
-    public Question(){
+    // Requires default contstructor
+    public Question(){}
 
+    public Question(String question){
+        this.question = question;
     }
 }
