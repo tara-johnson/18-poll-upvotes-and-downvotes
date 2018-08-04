@@ -10,10 +10,10 @@ public class Question {
     @SequenceGenerator(
             name = "question_generator",
             sequenceName = "question_sequence",
-            initialValue = 1000
+            initialValue = 1001
     )
-    long id;
-    String question;
+    public long id;
+    public String question;
 
     public Question(){
 
