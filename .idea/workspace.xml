@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12c507a-a7da-4601-a739-ab2d8a8cdd7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c12c507a-a7da-4601-a739-ab2d8a8cdd7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -29,9 +27,15 @@
     <session id="1935478280">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.opened" value="3" />
+=======
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="2" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,7 +43,11 @@
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="1" />
           <entry key="html" value="1" />
+<<<<<<< HEAD
           <entry key="java" value="18" />
+=======
+          <entry key="java" value="17" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
           <entry key="properties" value="1" />
           <entry key="rnc" value="1" />
           <entry key="xml" value="2" />
@@ -49,7 +57,11 @@
         <counts>
           <entry key="Groovy" value="1" />
           <entry key="HTML" value="1" />
+<<<<<<< HEAD
           <entry key="JAVA" value="18" />
+=======
+          <entry key="JAVA" value="17" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
           <entry key="RNG Compact" value="1" />
@@ -605,7 +617,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533542518769" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533542511064" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -681,7 +697,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="15513000" />
+=======
+    <option name="totallyTimeSpent" value="15473000" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
   </component>
   <component name="ToolWindowManager">
     <frame x="759" y="39" width="891" height="888" extended-state="0" />
@@ -779,6 +799,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/model/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
         </state>
       </provider>
     </entry>
@@ -823,6 +857,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -837,5 +872,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
   </component>
 </project>
