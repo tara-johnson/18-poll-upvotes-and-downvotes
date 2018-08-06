@@ -27,9 +27,15 @@
     <session id="1935478280">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="3" />
+=======
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.opened" value="2" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,21 +43,29 @@
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="1" />
           <entry key="html" value="1" />
+<<<<<<< HEAD
+          <entry key="java" value="18" />
+=======
           <entry key="java" value="17" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
           <entry key="properties" value="1" />
           <entry key="rnc" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
           <entry key="HTML" value="1" />
+<<<<<<< HEAD
+          <entry key="JAVA" value="18" />
+=======
           <entry key="JAVA" value="17" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
           <entry key="RNG Compact" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -72,7 +86,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -485,12 +499,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="QuestionPoll" type="b2602c69:ProjectViewProjectNode" />
               <item name="18-poll-upvotes-and-downvotes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuestionPoll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18-poll-upvotes-and-downvotes" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QuestionPoll" type="b2602c69:ProjectViewProjectNode" />
@@ -587,7 +607,6 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -598,7 +617,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533542518769" />
+=======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533542511064" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -669,16 +692,21 @@
       <updated>1533369048750</updated>
       <workItem from="1533369054448" duration="871000" />
       <workItem from="1533371001328" duration="13434000" />
+      <workItem from="1533542499724" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="15513000" />
+=======
     <option name="totallyTimeSpent" value="15473000" />
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
   </component>
   <component name="ToolWindowManager">
     <frame x="759" y="39" width="891" height="888" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34275618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35100117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -695,13 +723,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32756326" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32788944" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32788944" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32756326" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.28894472" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.28894472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -771,6 +799,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+<<<<<<< HEAD
+=======
         </state>
       </provider>
     </entry>
@@ -782,13 +812,18 @@
             <element signature="e#781#782#0" expanded="true" />
             <element signature="e#824#825#0" expanded="true" />
           </folding>
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/model/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -822,5 +857,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="825" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> 3b8caacf59d83f8a96e246340fe41bdddb3e2ca2
   </component>
 </project>
