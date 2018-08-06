@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
@@ -19,6 +20,7 @@ public class QuestionController {
     @ResponseBody
     public List<Question> getAll() {
         List<Question> question = questionRepository.findAll();
+        Collections.sort(question);
         return question;
     }
 
