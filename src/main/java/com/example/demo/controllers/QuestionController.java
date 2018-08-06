@@ -4,12 +4,10 @@ import com.example.demo.model.Question;
 import com.example.demo.repositories.QuestionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @Controller
 @RequestMapping ("/questions")
@@ -32,5 +30,18 @@ public class QuestionController {
         Question input = new Question(question);
         input = questionRepository.save(input);
         return input;
+    }
+
+    @GetMapping("/{id}/upvote")
+    public String upvote(
+        @PathVariable("id") long id
+    ) {
+        Optional optional = questionRepository.findById(id);
+        Question input = (Question) optional.get();
+        if (input != null) {
+            input.votes++;
+            questionRepository.save(input);
+        }
+        return "redirect:/";
     }
 }

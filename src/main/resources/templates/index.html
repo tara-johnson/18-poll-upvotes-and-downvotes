@@ -16,9 +16,17 @@
 <table border="1">
     <tr>
         <th>Question</th>
-    </tr>
+        <td>Votes</td>
+    </tr>aa
     <tr th:each="question : ${question}">
         <td th:text="${question.question}"></td>
+        <td th:text="${question.votes}"></td>
+        <td>
+            <a th:href="'/questions/' + ${question.id} + '/upvote'">Upvote</a>
+        </td>
+        <td>
+            <a th:href="'/questions/' + ${question.id} + '/downvote'">Downvote</a>
+        </td>
     </tr>
 </table>
 

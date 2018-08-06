@@ -14,6 +14,7 @@ public class Question {
     )
     public long id;
     public String question;
+    public int votes;
 
     // Requires default contstructor
     public Question(){}
