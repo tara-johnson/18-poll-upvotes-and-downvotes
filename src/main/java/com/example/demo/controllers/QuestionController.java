@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Controller
-@RequestMapping ("/questions")
+@RequestMapping ("/polls")
 public class QuestionController {
     @Autowired
     QuestionRepository questionRepository;
