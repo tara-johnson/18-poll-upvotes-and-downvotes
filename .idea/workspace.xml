@@ -37,10 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="gradle" value="1" />
           <entry key="html" value="1" />
           <entry key="java" value="12" />
           <entry key="properties" value="1" />
+          <entry key="rnc" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -49,18 +51,33 @@
           <entry key="Groovy" value="1" />
           <entry key="HTML" value="1" />
           <entry key="JAVA" value="12" />
+<<<<<<< HEAD
+=======
+          <entry key="PLAIN_TEXT" value="1" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
           <entry key="Properties" value="1" />
+          <entry key="RNG Compact" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="4" />
+=======
+          <entry key="html" value="192" />
+          <entry key="java" value="727" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="4" />
+=======
+          <entry key="HTML" value="192" />
+          <entry key="JAVA" value="727" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -89,6 +106,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/repositories/QuestionRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -105,6 +123,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
             </state>
           </provider>
         </entry>
@@ -114,6 +138,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+<<<<<<< HEAD
+=======
+              <folding>
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+              </folding>
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
             </state>
           </provider>
         </entry>
@@ -121,8 +152,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/QuestionController.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="510">
               <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+=======
+            <state relative-caret-position="750">
+              <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -387,6 +423,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="6133580579000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1488591208" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1613248354" />
@@ -524,8 +561,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/QuestionController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/demo/model/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/demo/controllers/QuestionController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/demo/repositories/QuestionRepository.java" />
       </list>
@@ -538,10 +575,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="79" />
-    <option name="width" value="1166" />
-    <option name="height" value="843" />
+    <option name="x" value="759" />
+    <option name="y" value="39" />
+    <option name="width" value="891" />
+    <option name="height" value="888" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -664,10 +701,19 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533539578474" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533538606552" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -729,17 +775,25 @@
       <option name="presentableId" value="Default" />
       <updated>1533369048750</updated>
       <workItem from="1533369054448" duration="871000" />
-      <workItem from="1533371001328" duration="1626000" />
+      <workItem from="1533371001328" duration="13434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3236000" />
+=======
+    <option name="totallyTimeSpent" value="14305000" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
   </component>
   <component name="ToolWindowManager">
     <frame x="759" y="39" width="891" height="888" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34275618" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34275618" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -747,16 +801,17 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.28894472" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32756326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32756326" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3288948" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3517588" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32756326" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -792,41 +847,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+=======
+        <state relative-caret-position="180">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="180">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+=======
+        <state relative-caret-position="255">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/QuestionController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/repositories/QuestionRepository.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="510">
           <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+=======
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="390">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -837,6 +928,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -861,6 +953,29 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+          <folding>
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+>>>>>>> 136d96611b3ae301b5e243b7015483e1c1bdc17e
         </state>
       </provider>
     </entry>
