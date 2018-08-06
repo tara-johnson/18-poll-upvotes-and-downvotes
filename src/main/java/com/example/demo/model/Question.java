@@ -28,9 +28,6 @@ public class Question implements Comparable<Question>{
     // return 0 if these two things are equal
     // return 1 if this is greater than the other one
     public int compareTo(Question o) {
-        System.out.println(this.question + " had " + this.votes);
-        System.out.println(o.question + " had " + o.votes);
-        System.out.println("result: " + (this.votes - o.votes));
         return o.votes - this.votes;
     }
 }
