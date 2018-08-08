@@ -25,13 +25,12 @@ public class QuestionController {
     }
 
     @PostMapping("/")
-    @ResponseBody
-    public Question create(
+    public String create(
             @RequestParam String question
     ) {
         Question input = new Question(question);
         input = questionRepository.save(input);
-        return input;
+        return "redirect:/";
     }
 
     @GetMapping("/{id}/upvote")
